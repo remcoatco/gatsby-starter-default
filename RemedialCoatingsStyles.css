@@ -1,0 +1,218 @@
+*,
+*::before,
+*::after {
+  margin: 5px;
+  padding: 0;
+  box-sizing: inherit;
+  overflow-x: hidden;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body {
+  font-size: 1.6rem;
+  background-image: url("https://wallpapercave.com/wp/wp9124480.jpg");
+}
+
+p {
+  color: white;
+  font-size: 2.7rem;
+  font-family: Gill Sans Extrabold, sans-serif;
+  font-weight: bold;
+  padding: 5px;
+  text-shadow: 4px 4px 1px grey;
+  
+}
+
+img:not(.mBg.img13.img16) {
+  border-style: ridge;
+  border-width: 10px;
+}
+
+.fBc  {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.fBc2  {
+  display: flex;
+}
+
+.img1  {
+  width: 1600px;
+  height: 600px;
+}
+
+.img14  {
+  flex: 1;
+  height: 300px;
+}
+
+.img10  {
+  flex: 1;
+  height: 300px;
+}
+
+.img2  {
+  flex: 1 1 1;
+  height: 750px;
+}
+
+.img4  {
+  flex: 1 1 1;
+  height: 750px;
+}
+
+.p1  {
+  flex: 1 1 1;
+  width: 425px;
+  overflow: hidden;
+  height: 800px;
+}
+
+.img3  {
+  flex: 2 2 0;
+  overflow-x: hidden;
+  height: 700px;
+  width: 800px;
+}
+
+.p2  {
+  font-size: 3.4rem;
+  width: 700px;
+  overflow-x: hidden;
+  flex: 1 1 0;
+}
+
+.p3  {
+  overflow-x: hidden;
+  width: 800px;
+  font-size: 3.3rem;
+}
+
+.img5  {
+  height: 700px;
+  width: 900px;
+  overflow-x: hidden;
+  left: 20px;
+}
+
+.p4  {
+  width: 300px;
+}
+
+.img18  {
+  height: 800px;
+  flex: auto;
+  width: 800px;
+}
+
+.img12  {
+  height: 800px;
+  flex: auto;
+  width: 800px;
+}
+
+.img6  {
+  height: 800px;
+  width: 1000px;
+}
+
+.p5  {
+  width: 400px;
+  font-size: 3.6rem;
+}
+
+.img7  {
+  width: 1200px;
+}
+
+.p6  {
+  width: 300px;
+}
+
+.p7  {
+  width: 125px;
+  font-size: 2.2rem;
+}
+
+.img13  {
+  width: 800px;
+  height: 440px;
+  flex: auto;
+  border-width: 10px;
+}
+
+.img16  {
+  width: 800px;
+  height: 440px;
+  flex: auto;
+  border-width: 10px;
+}
+
+.img8  {
+  flex: auto;
+}
+
+.p8  {
+  flex: auto;
+  font-size: 3.8rem;
+  width: 400px;
+}
+
+.p9  {
+  flex: auto;
+  width: 300px;
+  font-size: 4rem;
+}
+
+.img21  {
+  flex: auto;
+  width: 1000px;
+  height: 700px;
+}
+
+.img9  {
+  flex: auto;
+  height: 1200px;
+  width: 1200px;
+}
+
+.p10  {
+  flex: auto;
+  width: 300px;
+  font-size: 4rem;
+}
+
+.img19  {
+  flex: auto;
+  width: 1000px;
+}
+
+.p11  {
+  flex: auto;
+  width: 300px;
+  font-size: 4rem;
+}
+
+.img11  {
+  width: 1600px;
+}
+
+.img15  {
+  width: 700px;
+  height: 300px;
+}
+
+.img17  {
+  width: 700px;
+  height: 300px;
+}
+
+.img20  {
+  width: 1600px;
+  height: 600px;
+}
